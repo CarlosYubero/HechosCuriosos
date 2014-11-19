@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FunFacts</string>
+    <string name="sabesque">¿Did you know that...?</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="HechosCuriosos">
+        <item>When the ants.... se estiran cuando se despiertan por la mañana (English).</item>
+        <item>Las avestruces pueden correr más rápido que los caballos.(English)</item>
+        <item>The gold medals....dee los juegos olímpicos están hechas de plata.(English)</item>
+        <item>U have born with 300 huesos, pero en la edad adulta tendrás solo 206.(English)</item>
+        <item>Sunlight only takes 8 minutos en llegar a la Tierra.(English)</item>
+        <item>Some Plants de bambu pueden crecer hasta un metro al día.(English)</item>
+        <item>State of Florida es más grande que Inglaterra.(English)</item>
+        <item>Some Penguins pueden saltar de 2 a 3 metros por encima del aguar.(English)</item>
+        <item>More or less se tarda 66 días en tomar un nuevo hábito.(English)</item>
+        <item>Mamuts walk sobre la tierra en la época en que se construyeron las grandes pirámides.(English)</item>
+    </string-array>
+</resources>
